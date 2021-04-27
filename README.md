@@ -7,9 +7,9 @@
 
 **This work based on following references:**
 
-1) (Schmidt J. et al. 
+1) [Schmidt J. et al. 
 Recent advances and applications of machine learning in solid-state materials science 
-npj Computational Materials. Nature Publishing Group, 2019. Vol. 5, № 1. P. 1–36.)[https://doi.org/10.1038/s41524-019-0221-0]
+npj Computational Materials. Nature Publishing Group, 2019. Vol. 5, № 1. P. 1–36.](https://doi.org/10.1038/s41524-019-0221-0)
 
 2) S. P. Ong, W. D. Richards, A. Jain, G. Hautier, M. Kocher, S. Cholia, D. Gunter, V. L. Chevrier, K. Persson, G. Ceder
 Python Materials Genomics (pymatgen) : A Robust, Open-Source Python Library for Materials Analysis.
