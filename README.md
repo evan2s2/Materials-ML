@@ -2,6 +2,7 @@
 *This an example of code aimed to build Ewald Descritor Model of bulk moduli predicting based on MAterials Project data*
 
 *Also I built another model based on 49000 samples and it gives significant better results*
+*Whole model trained using HPC with accurate testing, convergence, validation, etc.*
 
 *Please contact me for more information if you are intersted in*
 
