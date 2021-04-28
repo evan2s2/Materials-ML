@@ -6,7 +6,7 @@ Trained model uses crystal structure description only (cif)
 *Also I built another model based on much more samples and it gives significant better results.*
 *Whole model trained using HPC and provides more useful descriptors such as Voronoi nearest neighbors descriptor with accurate testing, convergence, validation, etc.*
 
-Comparison with VASP and AFLOW-ML results
+**Comparison with VASP and AFLOW-ML results**
 ![2021-04-28_10-37-29](https://user-images.githubusercontent.com/55428588/116365380-e1b97100-a80d-11eb-82f6-4bbdf56f9e8c.png)
 `EOS` - Equation of state
 `DIST` - elastic constants calculation. using distortions schemes
