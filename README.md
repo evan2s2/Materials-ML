@@ -8,9 +8,9 @@ Trained model uses crystal structure description only (cif)
 
 ## Comparison with VASP and AFLOW-ML results
 ![2021-04-28_10-37-29](https://user-images.githubusercontent.com/55428588/116365380-e1b97100-a80d-11eb-82f6-4bbdf56f9e8c.png)
-`EOS` - Equation of state
-`DIST` - elastic constants calculation. using distortions schemes
-`aflow` - http://www.aflowlib.org/aflow-ml/
+- `EOS` - Equation of state
+- `DIST` - elastic constants calculation. using distortions schemes
+- `aflow` - http://www.aflowlib.org/aflow-ml/
 
 *Please contact me for more information if you are intersted in*
 
