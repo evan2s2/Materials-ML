@@ -1,5 +1,5 @@
 # Materials-ML
-*This is an example of code aimed to build Ewald Descritor Model of bulk moduli predicting based on Materials Project data*
+*This is an example (short and very basic) of code aimed to build Ewald Descritor Model of bulk moduli predicting based on Materials Project data*
 
 Trained model uses crystal structure description only (cif)
 
