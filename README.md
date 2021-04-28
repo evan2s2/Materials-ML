@@ -1,7 +1,7 @@
 # Materials-ML
 *This an example of code aimed to build Ewald Descritor Model of bulk moduli predicting based on Materials Project data*
 
-*Also I built another model based on 49000 samples and it gives significant better results.*
+*Also I built another model based on much more samples and it gives significant better results.*
 *Whole model trained using HPC and provides more useful descriptors such as Voronoi nearest neighbors descriptor with accurate testing, convergence, validation, etc.*
 
 ![2021-04-28_10-37-29](https://user-images.githubusercontent.com/55428588/116365380-e1b97100-a80d-11eb-82f6-4bbdf56f9e8c.png)
